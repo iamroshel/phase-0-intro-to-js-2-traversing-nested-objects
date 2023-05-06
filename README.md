@@ -1,4 +1,4 @@
-# Traversing Nested Objects c
+# Traversing Nested Objects c c
 
 ## Learning Goals
 
